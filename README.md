@@ -1,25 +1,29 @@
-<h1 align="center">@marcos-laboriosi/evalu8-tokens</h1>
+<h1 align="center">@laboriosi/evalu8-tokens</h1>
 
 ## How to install
 
 #### 1. First, you need to add at the root of your project a .npmrc with follow content:
 
 ```
-@marcos-laboriosi:registry=https://npm.pkg.github.com
+@laboriosi:registry=https://npm.pkg.github.com
 ```
 
 #### 2. To install that package on you project, run the command below:
 
 #### npm
+
 ```shell
-npm i @marcos-laboriosi/evalu8-tokens
+npm i @laboriosi/evalu8-tokens
 ```
+
 #### yarn
+
 ```shell
-yarn add @marcos-laboriosi/evalu8-tokens
+yarn add @laboriosi/evalu8-tokens
 ```
 
 ## Changelog
+
 We provide a full change log generated using our conventional commits:
 [CHANGELOG.md](https://github.com/marcos-laboriosi/evalu8-tokens/blob/main/CHANGELOG.md)
 
@@ -29,7 +33,7 @@ We provide a full change log generated using our conventional commits:
 
 GitHub Package Registry requires to be logged at NPM even for public packages. See below:
 
-> To authenticate by logging in to npm, use the npm login command, replacing USERNAME with your GitHub username, TOKEN with your personal access token,  and PUBLIC-EMAIL-ADDRESS with your email address.
+> To authenticate by logging in to npm, use the npm login command, replacing USERNAME with your GitHub username, TOKEN with your personal access token, and PUBLIC-EMAIL-ADDRESS with your email address.
 
 ```
 $ npm login --scope=@OWNER --registry=https://npm.pkg.github.com
@@ -40,7 +44,9 @@ $ npm login --scope=@OWNER --registry=https://npm.pkg.github.com
 ```
 
 Reference: https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#authenticating-with-a-personal-access-token
+
 ## Theme
+
 ```json
 {
   "border": {
