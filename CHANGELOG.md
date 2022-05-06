@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/marcos-laboriosi/evalu8-tokens/compare/v1.1.0...v1.2.0) (2022-05-06)
+
+
+### Features
+
+* rename organization ([c2aa7f9](https://github.com/marcos-laboriosi/evalu8-tokens/commit/c2aa7f98f83cb3978195dbd3b75bdd683586f530))
+
 ## [1.1.0](https://github.com/marcos-laboriosi/evalu8-tokens/compare/v1.0.3...v1.1.0) (2022-05-06)
 
 
