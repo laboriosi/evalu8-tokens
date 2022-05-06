@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcos-laboriosi/evalu8-tokens.git"
+    "url": "git+https://github.com/laboriosi/evalu8-tokens.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcos-laboriosi/evalu8-tokens/issues"
+    "url": "https://github.com/laboriosi/evalu8-tokens/issues"
   },
-  "homepage": "https://github.com/marcos-laboriosi/evalu8-tokens#readme",
+  "homepage": "https://github.com/laboriosi/evalu8-tokens#readme",
   "devDependencies": {
     "husky": "^7.0.4",
     "standard-version": "^9.3.2"
