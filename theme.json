@@ -40,7 +40,7 @@
   "brand": {
     "background": {
       "default": "#020f59",
-      "weakest": "#1c31a5",
+      "weakest": "#ced4f7",
       "weak": "#101f78",
       "strong": "#010937"
     },
