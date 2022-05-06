@@ -3,5 +3,5 @@
 
 git config advice.ignoredHook false
 chmod -x .husky/post-commit
-yarn release 
+npm run release 
 chmod +x .husky/post-commit
