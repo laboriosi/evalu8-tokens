@@ -1,5 +1,9 @@
 <h1 align="center">@marcos-laboriosi/evalu8-tokens</h1>
 
+## Changelog
+We provide a full change log generated using our conventional commits:
+[CHANGELOG.md](https://github.com/marcos-laboriosi/evalu8-tokens/blob/main/CHANGELOG.md)
+## Theme
 ```json
 {
   "border": {
